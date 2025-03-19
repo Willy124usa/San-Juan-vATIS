@@ -12350,7 +12350,7 @@
       ],
       "notamDefinitions": [
         {
-          "text": "VFR AIRCRAFT SAY DIRECTION OF FLIGHT. READ BACK ALL HOLD SHORT INSTRUCTIONS AND ASSIGNED ALTITUDES.",
+          "text": "VFR AIRCRAFT SAY DIRECTION OF FLIGHT. READ BACK ALL HOLD SHORT INSTRUCTIONS AND 0BEY NICKS INSTRUCTIONS.",
           "ordinal": 1,
           "enabled": true
         }
