@@ -3,7 +3,7 @@
   "name": "San Juan CERAP (ZSU)",
   "id": "357814f4-20ca-4356-afd3-868cce6828ab",
   "updateUrl": "https://raw.githubusercontent.com/Willy124usa/San-Juan-vATIS/refs/heads/main/SanJuanCERAP.json",
-  "updateSerial": 2025180301,
+  "updateSerial": 2025180302,
   "stations": [
     {
       "id": "3e614fba-5766-45f0-bb21-6a481f2c75f9",
@@ -12350,7 +12350,7 @@
       ],
       "notamDefinitions": [
         {
-          "text": "VFR AIRCRAFT SAY DIRECTION OF FLIGHT. READ BACK ALL HOLD SHORT INSTRUCTIONS AND ASSIGNED ALTITUDE.",
+          "text": "VFR AIRCRAFT SAY DIRECTION OF FLIGHT. READ BACK ALL HOLD SHORT INSTRUCTIONS AND ASSIGNED NOTHING BECAUSE THIS IS A TEST.",
           "ordinal": 1,
           "enabled": true
         }
