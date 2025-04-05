@@ -1,7 +1,7 @@
 {
   "name": "San Juan CERAP (ZSU)",
   "id": "956fdf5c-520d-464d-89b5-5859fa09661b",
-  "updateUrl": "?",
+  "updateUrl": "https://raw.githubusercontent.com/Willy124usa/San-Juan-vATIS/refs/heads/main/SanJuanCERAP.json",
   "updateSerial": 2025050499,
   "stations": [
     {
